@@ -3,6 +3,20 @@
 A curated collection of 20 hands-on computer vision mini projects powered by modern deep learning.
 Author: Nguyen Tin
 
+📑 Table of Contents
+🚀 Executive Summary
+🎯 Objectives
+📁 Repository Structure
+🧪 Project List
+📦 Installation Setup
+🛠️ Technologies Used
+🎬 YOLO Demo GIF
+📊 GitHub Stats
+🖼️ Sample Outputs
+🧑‍💻 Author Profile
+🤝 Contributing
+📄 License
+
 <p align="center"> <img src="https://img.shields.io/badge/Python-3.10+-blue?logo=python" /> <img src="https://img.shields.io/badge/OpenCV-4.x-green?logo=opencv" /> <img src="https://img.shields.io/badge/PyTorch-Deep%20Learning-red?logo=pytorch" /> <img src="https://img.shields.io/badge/TensorFlow-2.x-orange?logo=tensorflow" /> <img src="https://img.shields.io/badge/YOLO-v8-black?logo=yolo" /> <img src="https://img.shields.io/github/stars/NguyenTin2026/Mini-Project-Computer-Vision-in-Deep-Learning?style=social" /> <img src="https://img.shields.io/github/forks/NguyenTin2026/Mini-Project-Computer-Vision-in-Deep-Learning?style=social" /> </p>
 🚀 Executive Summary
 
