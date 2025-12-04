@@ -94,16 +94,23 @@ Real-time computer vision system
 📦 Installation & Setup
 1. Clone the Repository
 git clone https://github.com/NguyenTin2026/Mini-Project-Computer-Vision-in-Deep-Learning.git
+
 cd Mini-Project-Computer-Vision-in-Deep-Learning
-2. Install Dependencies
+
+3. Install Dependencies
+
+
 pip install -r requirements.txt
+
 🛠️ Technologies Used
 
 Python 3.10+
 
 OpenCV
 
-NumPy, Matplotlib
+NumPy 
+
+Matplotlib
 
 TensorFlow / Keras
 
@@ -128,6 +135,7 @@ Data augmentation previews
 🧑‍💻 Author – Professional Profile
 
 Nguyen Tin
+
 AI & Computer Vision Developer
 
 Strong foundation in Python, Deep Learning, and Image Processing
