@@ -177,18 +177,4 @@ Contributions, issues, and feature requests are welcome!
 Please submit a PR or open an issue for improvements or additional mini-projects.
 
 📄 License
-
 This project is licensed under the MIT License.
-
----
-
-# 🎉 Muốn phiên bản *premium hơn* nữa?
-
-Tôi có thể làm thêm:
-
-✨ Banner gradient 4K như startup AI  
-✨ Tạo logo riêng cho project  
-✨ Tự động tạo TOC bằng GitHub Action  
-✨ Thêm SVG animation  
-✨ Thêm demo video thực tế từ webcam  
-✨ Viết lại README theo format **Top GitHub repos (openCV, ultralytics, lightning.ai)**  
