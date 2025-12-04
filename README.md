@@ -192,6 +192,3 @@ Tôi có thể làm thêm:
 ✨ Thêm SVG animation  
 ✨ Thêm demo video thực tế từ webcam  
 ✨ Viết lại README theo format **Top GitHub repos (openCV, ultralytics, lightning.ai)**  
-
-Chỉ cần bạn nói: **"Nâng cấp README premium+"** 🚀
-
